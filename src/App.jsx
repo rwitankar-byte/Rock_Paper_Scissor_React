@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import "./App.css"
 const MOVES = ["Rock", "Paper", "Scissors"];
 
 function getComputerMove() {
